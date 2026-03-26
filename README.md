@@ -21,7 +21,7 @@ A Brazilian software engineer with 10+ years of experience, passionate about tec
 
 In 2021, I founded my own company, specialized in web development, systems, and automations. I work directly with clients, taking projects from idea to production — the kind of close partnership that I find most rewarding.
 
-My first contact with programming was at 11, in a computer course. At 15, I built a supplements e-commerce in PHP and JavaScript for my brother. In 2015, I stepped away from programming when I joined the armed forces. I came back in 2020, working at a marketing agency — and from there, I started specializing in new languages and tools. Today, at 29, I keep building — with the same curiosity as always, and a lot more experience.
+My first contact with programming was at 12, in a computer course. At 15, I built a supplements e-commerce in PHP and JavaScript for my brother. In 2015, I stepped away from programming when I joined the armed forces. I came back in 2020, working at a marketing agency — and from there, I started specializing in new languages and tools. Today, at 29, I keep building — with the same curiosity as always, and a lot more experience.
 
 Outside of work, I'm always building something for fun — exploring mobile app development, creating Discord bots, and developing extensions for IDEs and browsers. Building things for fun is what keeps the passion alive.
 
